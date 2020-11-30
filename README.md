@@ -7,3 +7,4 @@
 - `React Native Router Flux` 
 - `React Native Screens` 
 - `Firebase`
+- `Lodash`
