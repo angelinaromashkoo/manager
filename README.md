@@ -5,6 +5,5 @@
 - `React Redux` 
 - `Redux Thunk` 
 - `React Native Router Flux` 
-- `React Native Screens` 
 - `Firebase`
 - `Lodash`
